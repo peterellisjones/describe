@@ -2,7 +2,7 @@ Package.describe({
   name: 'peterellisjones:describe',
   summary: 'Extend tiny test so that you can use "describe", "context", and "it" blocks',
   version: '1.0.0',
-  git: ' /* Fill me in! */ '
+  git: 'https://github.com/peterellisjones/describe.git'
 });
 
 Package.onUse(function(api) {
