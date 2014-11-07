@@ -1,7 +1,7 @@
 Package.describe({
   name: 'peterellisjones:describe',
-  summary: 'Extend tiny test so that you can use "describe", "context", and "it" blocks',
-  version: '1.0.1',
+  summary: "Drop-in replacement for Meteor Tinytest to support 'describe', 'context' and 'it' blocks",
+  version: '1.0.2',
   git: 'https://github.com/peterellisjones/describe.git'
 });
 
