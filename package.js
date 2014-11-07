@@ -1,7 +1,7 @@
 Package.describe({
   name: 'peterellisjones:describe',
   summary: 'Extend tiny test so that you can use "describe", "context", and "it" blocks',
-  version: '1.0.0',
+  version: '1.0.1',
   git: 'https://github.com/peterellisjones/describe.git'
 });
 
